@@ -1,12 +1,7 @@
 ## Hi there! 👋 I'm Nanda Kishore Vuppili
 
 ### 🧑‍🎓 About Me
-Welcome to my GitHub profile! I am a dedicated and enthusiastic Data Scientist currently pursuing my Master's in Data Science at Stony Brook University, where I maintain a stellar CGPA of 3.9/4.0. My academic journey began with a Bachelor's degree in Computer Science Engineering from GITAM University, graduating with a CGPA of 8.86/10.0.
-
-### 📫 Contact Me
-- **Phone:** +1934-238-0932
-- **Email:** [vnandakishore1938@gmail.com](mailto:vnandakishore1938@gmail.com)
-- **LinkedIn:** [Nanda Kishore V](https://www.linkedin.com/in/nanda-kishore-v)
+Welcome to my GitHub profile! I am a dedicated and enthusiastic guy currently pursuing my Master's in Data Science at Stony Brook University, where I am exploring the frontiers of data. My academic journey began with a Bachelor's degree in Computer Science Engineering from GITAM University, graduating with a CGPA of 8.86/10.0.
 
 ### 💻 Technical Skills
 - **Languages:** Java, Python, SQL (MySQL, MongoDB), HTML, CSS, R
@@ -21,6 +16,12 @@ I am deeply passionate about the realms of Data Engineering and Machine Learning
 Currently, I am delving into advanced topics in data science, machine learning, and predictive analytics. I am constantly exploring new technologies and methodologies to enhance my skill set and contribute to meaningful projects. My goal is to bridge the gap between data and decision-making, empowering businesses and communities through data-driven solutions.
 
 Feel free to explore my repositories to see my work in action. Let's connect and collaborate on exciting projects!
+
+### 📫 Contact Me
+- **Phone:** +1934-238-0932
+- **Email:** [vnandakishore1938@gmail.com](mailto:vnandakishore1938@gmail.com)
+- **LinkedIn:** [Nanda Kishore V](https://www.linkedin.com/in/nanda-kishore-v)
+
 
 
 <!--
