@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/nanda-kishore-v" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%2320232a?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://github.com/nanda1045" target="_blank"><img alt="" src="https://img.shields.io/badge/GitHub-%2320232a?style=for-the-badge&logo=Github&logoColor=white" style="vertical-align:center" /></a>
-<a href="vnandakishore1938@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-%2320232a?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
+<a href="mailto:vnandakishore1938@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/Gmail-%2320232a?style=for-the-badge&logo=gmail&logoColor=white" style="vertical-align:center" /></a>
 </p>
 
 
