@@ -1,7 +1,9 @@
-<h1 align="center"> Hi! 👋</br> 
-</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&center=true&width=830&lines=I'm+Nanda+Kishore+Vuppili;Data+Aficionado;Student+%40+Stony+Brook+University;Nice+to+meet+you+!" alt="Typing SVG" /></a>
-<!-- <h3 align="center"> Student @ Stony Brook University  </h3> -->
+<h1 align="center"> Hi! 👋</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&center=true&vCenter=true&width=830&lines=I'm+Nanda+Kishore+Vuppili;Data+Aficionado;Student+%40+Stony+Brook+University;Nice+to+meet+you+!" alt="Typing SVG" />
+</a>
+<h3 align="center" style="color:yellow;">Student @ Stony Brook University</h3>
+
 
 ### 🧑‍🎓 About Me
 Welcome to my GitHub profile! I am a dedicated and enthusiastic guy currently pursuing my Master's in Data Science at Stony Brook University, where I am exploring the frontiers of data. My academic journey began with a Bachelor's degree in Computer Science Engineering from GITAM University, graduating with a CGPA of 8.86/10.0.
