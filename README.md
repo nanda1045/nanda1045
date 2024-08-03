@@ -12,7 +12,7 @@
 
 
 ### 🧑‍🎓 About Me
- I am a dedicated and enthusiastic guy currently pursuing my Master's in Data Science at Stony Brook University, where I am exploring the frontiers of data. My academic journey began with a Bachelor's degree in Computer Science Engineering from GITAM University, graduating with a CGPA of 8.86/10.0.I'm interested in -
+ I am a dedicated and enthusiastic guy currently pursuing my Master's in Data Science at Stony Brook University, where I am exploring the frontiers of data. My academic journey began with a Bachelor's degree in Computer Science Engineering from GITAM University, graduating with a CGPA of 8.86/10.0. I'm interested in -
 
 > * Data Engineering <br>
 > * Machine Learning Engineering<br>
@@ -20,11 +20,43 @@
 > * Trustworthy AI <br>
 > * Problem Solving <br>
 
-### 💻 Technical Skills
-- **Languages:** Java, Python, SQL (MySQL, MongoDB), HTML, CSS, R
-- **Developer Tools:** Git, GitHub, Colab, Tableau, PowerBI
-- **Libraries/Frameworks:** pandas, NumPy, Matplotlib, Scikit-Learn, TensorFlow, Keras, PyTorch, Flask
-- **General Skills:** Machine Learning, Deep Learning, Data Visualization, Data Mining, Statistics, Predictive Analysis, Data Structures, Problem-solving
+## 💻 Tech Stack:
+### Languages
+![Python](https://img.shields.io/badge/-Python-%2320232a?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-%2320232a?style=for-the-badge&logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-%2320232a?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2320232a?style=for-the-badge&logo=mongodb)
+![HTML5](https://img.shields.io/badge/-HTML5-%2320232a?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-%2320232a?style=for-the-badge&logo=css3)
+![R](https://img.shields.io/badge/-R-%2320232a?style=for-the-badge&logo=r&logoColor=white)
+
+### Developer Tools
+![Git](https://img.shields.io/badge/-Git-%2320232a?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-%2320232a?style=for-the-badge&logo=github)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-%2320232a?style=for-the-badge&logo=google-colab)
+![Tableau](https://img.shields.io/badge/-Tableau-%2320232a?style=for-the-badge&logo=tableau)
+![PowerBI](https://img.shields.io/badge/-PowerBI-%2320232a?style=for-the-badge&logo=power-bi&logoColor=white)
+
+### Libraries/Frameworks
+![pandas](https://img.shields.io/badge/-pandas-%2320232a?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-%2320232a?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-%2320232a?style=for-the-badge&logo=Matplotlib)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-%2320232a?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-%2320232a?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-%2320232a?style=for-the-badge&logo=keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-%2320232a?style=for-the-badge&logo=pytorch)
+![Flask](https://img.shields.io/badge/-Flask-%2320232a?style=for-the-badge&logo=flask)
+
+### General Skills
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-%2320232a?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-%2320232a?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-%2320232a?style=for-the-badge)
+![Data Mining](https://img.shields.io/badge/-Data%20Mining-%2320232a?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/-Statistics-%2320232a?style=for-the-badge)
+![Predictive Analysis](https://img.shields.io/badge/-Predictive%20Analysis-%2320232a?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-%2320232a?style=for-the-badge)
+![Problem-solving](https://img.shields.io/badge/-Problem%20solving-%2320232a?style=for-the-badge)
 
 
 
