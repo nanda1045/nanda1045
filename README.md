@@ -1,8 +1,9 @@
 <h1 align="center"> Hi! 👋</h1>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=400&center=true&vCenter=true&width=830&lines=I'm+Nanda+Kishore+Vuppili;Data+Aficionado;Student+%40+Stony+Brook+University;Nice+to+meet+you+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=yellow&duration=4000&pause=400&center=true&width=830&lines=I'm+Nanda+Kishore+Vuppili;Data+Aficionado;Student+%40+Stony+Brook+University;Nice+to+meet+you+!" alt="Typing SVG" />
 </a>
-<h3 align="center" style="color:yellow;">Student @ Stony Brook University</h3>
+<!-- <h3 align="center"> Student @ Stony Brook University </h3> -->
+
 
 
 ### 🧑‍🎓 About Me
