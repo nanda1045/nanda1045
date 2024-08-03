@@ -25,11 +25,14 @@
 ![Python](https://img.shields.io/badge/-Python-%2320232a?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-%2320232a?style=for-the-badge&logo=MySQL&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-%2320232a?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%2320232a?style=for-the-badge&logo=mongodb)
 ![HTML5](https://img.shields.io/badge/-HTML5-%2320232a?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-%2320232a?style=for-the-badge&logo=css3)
 ![R](https://img.shields.io/badge/-R-%2320232a?style=for-the-badge&logo=r&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-%2320232a?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-%2320232a?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%2320232a?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Developer Tools
 ![Git](https://img.shields.io/badge/-Git-%2320232a?style=for-the-badge&logo=git)
@@ -58,6 +61,10 @@
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-%2320232a?style=for-the-badge)
 ![Problem-solving](https://img.shields.io/badge/-Problem%20solving-%2320232a?style=for-the-badge)
 
+### IDEs/Editors
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%2320232a.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2320232a.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 
 ### 🔍 What I'm Up To
@@ -65,10 +72,7 @@ Currently, I am delving into advanced topics in data science, machine learning, 
 
 Feel free to explore my repositories to see my work in action. Let's connect and collaborate on exciting projects!
 
-### 📫 Contact Me
-- **Phone:** +1934-238-0932
-- **Email:** [vnandakishore1938@gmail.com](mailto:vnandakishore1938@gmail.com)
-- **LinkedIn:** [Nanda Kishore V](https://www.linkedin.com/in/nanda-kishore-v)
+
 
 
 
