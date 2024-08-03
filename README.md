@@ -1,7 +1,8 @@
 <h1 align="center"> Hi! 👋</h1>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=yellow&duration=4000&pause=400&center=true&width=830&lines=I'm+Nanda+Kishore+Vuppili;Data+Aficionado;Student+%40+Stony+Brook+University;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=yellow&duration=4000&pause=400&center=true&vCenter=true&width=900&lines=I'm+Nanda+Kishore+Vuppili;Data+Aficionado;Student+%40+Stony+Brook+University;Welcome+to+my+Github+Profile!" alt="Typing SVG" />
 </a>
+
 <!-- <h3 align="center"> Student @ Stony Brook University </h3> -->
 <p align="center">
 <a href="https://www.linkedin.com/in/nanda-kishore-v" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-%2320232a?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
@@ -33,6 +34,13 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-%2320232a?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-%2320232a?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%2320232a?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud
+![AWS](https://img.shields.io/badge/-AWS-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
+![AWS](https://img.shields.io/badge/-AWS%20Lambda-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
+![AWS](https://img.shields.io/badge/-AWS%20SageMaker-%2320232a?style=for-the-badge&logo=amazon-aws&logoColor=orange)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%2320232a.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%2320232a.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### Developer Tools
 ![Git](https://img.shields.io/badge/-Git-%2320232a?style=for-the-badge&logo=git)
